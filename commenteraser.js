@@ -1,5 +1,5 @@
 // commenteraser.js
-// JavaScript CSS comments eraser library
+// JavaScript comments eraser library
 //
 // Copyright 2011 Federico Spini
 // MIT license
